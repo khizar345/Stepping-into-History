@@ -1,7 +1,7 @@
 <?php
     session_start()
 ?>
-<!--the actual sign up page with which the user interacts, the header is almost identical to index page-->
+<!--the actual sign up page with which the user interacts, the header is almost identical to index page.-->
 <head lang="en">
     <title>New Member</title>
     <link rel="stylesheet" href="style.css">
